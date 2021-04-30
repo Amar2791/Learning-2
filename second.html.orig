@@ -1,0 +1,15 @@
+<html>
+<head>
+ <title> New Begining !! </title>
+  <body>
+  <center>
+  <h1> welcome </h1>
+  <h2>we are learning now </h2>
+  <button> git </button>
+<<<<<<< HEAD
+=======
+  
+>>>>>>> fix
+</center>
+</body>
+</html>
